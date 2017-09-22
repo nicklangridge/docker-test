@@ -3,7 +3,7 @@
 ##  vigilant-guacamole
 
 ```
-cd  docker-test
+cd  vigilant-guacamole
 cpanm --installdeps .
 morbo server.pl
 
